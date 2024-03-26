@@ -2,7 +2,7 @@ I. AdventureWorks Database Backup and Restore
 
 This repository contains SQL scripts for backing up and restoring the AdventureWorks2019 database.
 
-II.Description
+II. Description
 
 The AdventureWorks2019 database is a sample database provided by Microsoft, often used for educational and testing purposes. 
 This repository includes SQL scripts to perform a backup of the AdventureWorks2019 database and restore it to create a new copy named AdventureWorksNew.
